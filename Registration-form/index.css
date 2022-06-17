@@ -1,0 +1,144 @@
+.register {
+  background: #ff7a7a;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+*body {
+  background: #ff7a7a;
+  font-family: "Poppins", sans-serif;
+}
+
+.register-1 {
+  background-image: url(/Registration-form/images/bg-intro-desktop.png);
+  background-position: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  background-size: cover;
+}
+
+.register-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 50px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Poppins", sans-serif;
+  padding: 10px;
+}
+
+.register-3 {
+  color: #fff;
+  margin-top: 100px;
+  padding: 10px;
+}
+
+.register-3 h1 {
+  font-size: 40px;
+}
+
+.register-4 {
+  display: -ms-grid;
+  display: grid;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.register-5 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 16px;
+  width: 500px;
+  height: 50px;
+  background: #6055a5;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.free p {
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 50px;
+  text-align: center;
+}
+
+.register-6 {
+  background: #fff;
+  width: 500px;
+  height: 60vh;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+}
+
+.register-7 {
+  display: -ms-grid;
+  display: grid;
+  gap: 10px;
+  padding: 30px;
+}
+
+#name {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+#last {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+#email {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+#password {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.btn {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  background: #38cc8c;
+  border: none;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.terms {
+  font-size: 14px;
+  color: #b9b6d3;
+}
+
+.terms a {
+  text-decoration: none;
+  color: #ff7a7a;
+}
+/*# sourceMappingURL=index.css.map */
