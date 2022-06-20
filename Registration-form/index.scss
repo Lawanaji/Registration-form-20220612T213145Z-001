@@ -9,8 +9,11 @@
   background: hsl(0, 100%, 74%);
   font-family: "Poppins", sans-serif;
 }
+main {
+  // background-image: url(/Registration-form/bg-intro-desktop.png);
+}
 .register-1 {
-  background-image: url(/Registration-form/bg-intro-desktop.png);
+  background-image: url(../Registration-form/images/bg-intro-desktop.png);
   background-position: center;
   align-items: center;
   height: 100vh;
